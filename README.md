@@ -1,4 +1,4 @@
-Cardano のステーキングプール CIEL Stake Pool のGithubアカウントです！ 👋
+Cardano のステーキングプール CIEL Stake Pool のGithubアカウントです！ 👋  
 CIEL Stake Pool は**２年以上の運営経験がある老舗プール**です！
 新しく委任先を探している方、委任先の変更を検討されている方の御委任をお待ちしております！🫡
 
