@@ -5,6 +5,7 @@ export default defineConfig({
 	title: "449sabu Blogs",
 	description:
 		"449sabuの開発日記です。日々の個人開発の記録や、ためになったTipsを紹介しています。",
+  base: "/449sabu/",
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
 		nav: [
