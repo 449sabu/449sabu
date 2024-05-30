@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-	title: "My Awesome Project",
+	title: "449sabu Blogs",
 	description:
 		"449sabuの開発日記です。日々の個人開発の記録や、ためになったTipsを紹介しています。",
 	themeConfig: {
