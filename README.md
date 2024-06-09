@@ -9,6 +9,8 @@ CIEL Stake Pool は**２年以上の運営経験がある老舗プール**です
 
 [![My Pool Status](https://cardano-snapshot.449dev.workers.dev/pool?id=pool13qppafmw3vq5rl4ewmxv7zy84x3rshx9sdczs0zq40cxu0dqkrg)](https://app.cielstakepool.com/)
 
+![](https://cardano-snapshot.449dev.workers.dev)
+
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=449sabu&count_private=true&show_icons=true" />
