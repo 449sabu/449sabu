@@ -2,12 +2,12 @@ Cardano のステーキングプール CIEL Stake Pool のGithubアカウント�
 CIEL Stake Pool は**２年以上の運営経験がある老舗プール**です！
 新しく委任先を探している方、委任先の変更を検討されている方の御委任をお待ちしております！🫡
 
-- 公式ウェブサイトは [こちら](https://www.cielstakepool.com/)
+- 公式ウェブサイトは [こちら](https://app.cielstakepool.com/)
 - Cardano 開発を始めたい方向けのガイドと、CIEL が開発・提供しているツールの使い方は [こちら](https://449sabu.github.io/449sabu/)
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=ts,tailwind,remix,cloudflare)](https://skillicons.dev) -->
 
-[![My Pool Status](https://cardano-snapshot.449dev.workers.dev/pool?id=pool13qppafmw3vq5rl4ewmxv7zy84x3rshx9sdczs0zq40cxu0dqkrg)](https://cielstakepool.com)
+[![My Pool Status](https://cardano-snapshot.449dev.workers.dev/pool?id=pool13qppafmw3vq5rl4ewmxv7zy84x3rshx9sdczs0zq40cxu0dqkrg)](https://app.cielstakepool.com/)
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
